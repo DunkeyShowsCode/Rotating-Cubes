@@ -2,14 +2,16 @@
 
 <h2>Description</h2>
 
-<br />
+<br /> I bulit this code to have a roatating cube in ASCII chars, this project just refreshed my math skills and concpets of matrixes
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>C++ </b> 
-- <b>Discord Import</b>
-- <b>Random Import</b>
+- <b>stdio Import</b>
+- <b>string Import</b>
+- <b>Math Import</b>
+- <b>unistd Import</b>
 
 <h2>Environments Used </h2>
 
@@ -18,30 +20,38 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Main Function: <br/>
-<img src="https://i.imgur.com/Z9TGMuD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Varabiles: <br/>
+<img src="https://i.imgur.com/VmYQLbf.png" height="80%" width="80%" alt="ERROR"/>
 <br />
 <br />
-Sending Messages Function:  <br/>
-<img src="https://i.imgur.com/LXkYtW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+XYZ calculation:  <br/>
+<img src="https://i.imgur.com/SH8bull.png" height="80%" width="80%" alt="ERROR"/>
 <br />
 <br />
-Running Discord Bot (No Token shown): <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Surface Cal: <br/>
+<img src="https://i.imgur.com/0ba63SV.png" height="80%" width="80%" alt="ERROR"/>
 <br />
 <br />
-Turning bot online:  <br/>
-<img src="https://i.imgur.com/pDTpyHg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Cube 1:  <br/>
+<img src="https://i.imgur.com/v5PqR6x.png" height="80%" width="80%" alt="ERROR"/>
 <br />
 <br />
-Checking if if user wants the Bot to private message them or not:  <br/>
-<img src="https://i.imgur.com/VnVa55J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Cube 2:  <br/>
+<img src="https://i.imgur.com/7cpCCqT.png" height="80%" width="80%" alt="ERROR"/>
 <br />
 <br />
-Checks to see if user Edits any message  <br/>
-<img src="https://i.imgur.com/mKSSKoh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Cube 3:  <br/>
+<img src="https://i.imgur.com/1sO7hwA.png" height="80%" width="80%" alt="ERROR"/>
 <br />
 <br />
-Responses :  <br/>
-<img src="https://i.imgur.com/PAc1j0q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Prints 1:  <br/>
+<img src="https://i.imgur.com/pQaCZgO.png" height="80%" width="80%" alt="ERROR"/>
+<br />
+<br />
+Prints 2:  <br/>
+<img src="https://i.imgur.com/R1sFw4B.png" height="80%" width="80%" alt="ERROR"/>
+<br />
+<br />
+Prints 3:  <br/>
+<img src="https://i.imgur.com/P6yW5P3.png" height="80%" width="80%" alt="ERROR"/>
 </p>
